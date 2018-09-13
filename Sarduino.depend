@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1536836896 source:c:\users\naceur\documents\sarduino\genann.c
+	"genann.h"
+	<assert.h>
+	<errno.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1536570423 c:\users\naceur\documents\sarduino\genann.h
+	<stdio.h>
+
+1536845966 source:c:\users\naceur\documents\sarduino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"genann.h"
+	<string.h>
+
